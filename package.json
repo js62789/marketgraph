@@ -1,0 +1,28 @@
+{
+  "name": "marketgraph",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js62789/marketgraph.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/js62789/marketgraph/issues"
+  },
+  "homepage": "https://github.com/js62789/marketgraph",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}
